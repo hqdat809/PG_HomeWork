@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.item-content {
+    display: flex;
+    width: 500px;
+}
+
+.item-content .wrapper-img-item {
+    width: 100px;
+    height: 100px;
+}
+
+.wrapper-img-item img{
+    width: 100px;
+    height: 100px;
+}
+

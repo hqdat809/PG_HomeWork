@@ -1,0 +1,17 @@
+{
+  "welcome": "Xin chào",
+  "email": "Địa chỉ Email:",
+  "fullName": "Họ và tên:",
+  "password": "Mật khẩu:",
+  "rememberMe": "Lưu thông tin đăng nhập",
+  "emailRequire": "Vui lòng nhập địa chỉ email",
+  "emailInvalid": "Địa chỉ email không hợp lệ",
+  "passwordRequire": "Vui lòng nhập mật khẩu",
+  "minPasswordInvalid": "Mật khẩu tối thiểu 4 ký tự",
+  "register": "Đăng kí",
+  "login": "Đăng nhập",
+  "repeatPassword": "Nhập lại mật khẩu:",
+  "region": "Quốc gia: ",
+  "city": "Thành phố: ",
+  "gender": "Giới tính: "
+}

@@ -1,0 +1,30 @@
+.wrapper-signup-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 150px;
+    height: 100%;
+    flex-direction: column;
+  }
+
+  .wrapper-signup-page img {
+    margin-bottom: 20px;
+  }
+
+  .error-input {
+    border: 1px solid red !important;
+  }
+  
+  .wrapper-login-page img {
+    height: auto;
+    width: auto;
+  }
+  
+  .btn-signup {
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  .btn-signup:hover {
+    cursor: pointer;
+  }
